@@ -1,0 +1,14 @@
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/bin/Debug/net8.0/ConsoleApp29Gennaio
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/bin/Debug/net8.0/ConsoleApp29Gennaio.deps.json
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/bin/Debug/net8.0/ConsoleApp29Gennaio.runtimeconfig.json
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/bin/Debug/net8.0/ConsoleApp29Gennaio.dll
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/bin/Debug/net8.0/ConsoleApp29Gennaio.pdb
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.AssemblyInfoInputs.cache
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.AssemblyInfo.cs
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.csproj.CoreCompileInputs.cache
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.dll
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/refint/ConsoleApp29Gennaio.dll
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.pdb
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ConsoleApp29Gennaio.genruntimeconfig.cache
+/Users/ebby/Desktop/Corso-local/Backend/29 gennaio/ConsoleApp29Gennaio/obj/Debug/net8.0/ref/ConsoleApp29Gennaio.dll
